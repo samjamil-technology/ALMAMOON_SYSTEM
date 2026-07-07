@@ -1,0 +1,22 @@
+[
+  {
+    "localId": "admin-demo",
+    "email": "admin@mamoonmedical.com",
+    "emailVerified": false,
+    "passwordHash": "",
+    "salt": "",
+    "passwordUpdatedAt": 0,
+    "signInProvider": "password",
+    "customAttributes": "{\"role\":\"admin\"}"
+  },
+  {
+    "localId": "employee-demo",
+    "email": "employee@mamoonmedical.com",
+    "emailVerified": false,
+    "passwordHash": "",
+    "salt": "",
+    "passwordUpdatedAt": 0,
+    "signInProvider": "password",
+    "customAttributes": "{\"role\":\"employee\"}"
+  }
+]

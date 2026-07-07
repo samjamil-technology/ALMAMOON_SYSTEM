@@ -1,0 +1,10 @@
+{
+  "appId": "com.mamoonmedical.app",
+  "appName": "Mamoon Medical System",
+  "webDir": "www",
+  "plugins": {
+    "Geolocation": {
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"]
+    }
+  }
+}
